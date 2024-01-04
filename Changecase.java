@@ -3,7 +3,7 @@ package Kra2;
 public class Changecase {
 
 	public static void main(String[] args) {
-			String s1="java1@";
+			String s1="javaA1@";
 			String s2=" ";
 			for( int i=0;i<s1.length();i++)
 			{
